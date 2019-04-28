@@ -6,6 +6,7 @@ length, repetitiveness, speed, and readability. We have observed that the style 
 We have used distributed representation methods and WEAT test to measure various gender and racial biases in the song lyrics. We have 
 observed that biases in song lyrics correlate with prior results on human subjects. This correlation indicates that song lyrics reflect 
 the biases that exist in society. Increasing consumption of music and the effect of lyrics on human emotions makes this analysis important.
+
 This is the official codebase of the paper[1].
 
 # Dependencies
