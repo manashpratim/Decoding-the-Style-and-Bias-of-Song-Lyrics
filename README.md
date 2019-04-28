@@ -34,6 +34,8 @@ human biases quite accurately. This work can be extended further by investigatin
 
 # References
 [1] MP Barman, A Awekar and S Kothari "Decoding the Style and Bias of Song Lyrics"- arXiv preprint arXiv:1901.05227, 2019.
+
 [2] T. Bertin-Mahieux, D. P. Ellis, B. Whitman, and P. Lamere. 2011. The million song Dataset. In Proceedings of the 12th International Conference on Music Information Retrieval (ISMIR 2011).
+
 [3] Aylin Caliskan, Joanna J. Bryson, and Arvind Narayanan. 2017. Semantics derived automatically from language corpora contain human-like biases. Science 356 (2017), 183–186.
 
