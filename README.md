@@ -24,7 +24,16 @@ we could obtain lyrics only for 451,045 songs. We ensured that our BB and MSD da
 in our analysis are around half a million. We had to do extensive data cleaning and preprocessing to use the scraped lyrics.
 We can not publicly distribute our datasets as it might infringe copyright of the artists. However, our datasets are available upon request.
 
+# Instructions
+The notebooks Lyrics Analysis and Lyrics Analysis II contain the codes for the style analyis of songs. Lyrics Analysis contains codes for analysis of swear words content, length of songs etc. Lyrics Analysis II contains codes for the readability tests and repetitiveness. The notebook word cloud contains code to create the word clouds. Word Rank notebook contains the code for the word rank comparison. The WEAT notebook contains the code for the Word Embedding Association Test[3] to measure bias.
+
 # Conclusion
 We have analyzed over half a million lyrics to understand the style and prevalent biases. As compared to other songs, we have observed
 that popular songs have several distinguishing characteristics that can be expressed in terms of the style of lyrics. Lyrics can capture
 human biases quite accurately. This work can be extended further by investigating music genre-specific style and biases.
+
+# References
+[1] MP Barman, A Awekar and S Kothari "Decoding the Style and Bias of Song Lyrics"- arXiv preprint arXiv:1901.05227, 2019.
+[2] T. Bertin-Mahieux, D. P. Ellis, B. Whitman, and P. Lamere. 2011. The million song Dataset. In Proceedings of the 12th International Conference on Music Information Retrieval (ISMIR 2011).
+[3] Aylin Caliskan, Joanna J. Bryson, and Arvind Narayanan. 2017. Semantics derived automatically from language corpora contain human-like biases. Science 356 (2017), 183–186.
+
