@@ -17,7 +17,7 @@ This is the official codebase of the paper[1].
 
 # Datasets
 For style analysis, we created two datasets: Billboard (BB) and Million Song Dataset (MSD). For both the datasets, we obtained the song 
-lyrics by scraping through the user-generated content on multiple websites such as MetroLyrics (www.metrolyrics.com)and LyricsMode 
+lyrics by scraping through the user-generated content on multiple websites such as MetroLyrics (www.metrolyrics.com) and LyricsMode 
 (www.lyricsmode.com). The BB dataset contains top 100 songs for each year (1965 to 2015) from the Billboard Hot 100 list
 (www.billboard.com/charts/hot-100). We consider these 5100 songs as popular songs. The original million song dataset only provides
 audio features and song metadata [2]. It does not provide song lyrics. Out of all songs listed in the original million song dataset,
