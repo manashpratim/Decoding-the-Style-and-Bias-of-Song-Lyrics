@@ -23,7 +23,7 @@ lyrics by scraping through the user-generated content on multiple websites such 
 audio features and song metadata [2]. It does not provide song lyrics. Out of all songs listed in the original million song dataset,
 we could obtain lyrics only for 451,045 songs. We ensured that our BB and MSD datasets had no songs in common. Thus total songs
 in our analysis are around half a million. We had to do extensive data cleaning and preprocessing to use the scraped lyrics.
-We can not publicly distribute our datasets as it might infringe copyright of the artists. However, our datasets are available upon request.
+We can not publicly distribute our datasets as it might infringe copyright of the artists. 
 
 # Instructions
 The notebooks Lyrics Analysis and Lyrics Analysis II contain the codes for the style analyis of songs. Lyrics Analysis contains codes for analysis of swear words content, length of songs etc. Lyrics Analysis II contains codes for the readability tests and repetitiveness. The notebook word cloud contains code to create the word clouds. Word Rank notebook contains the code for the word rank comparison. The WEAT notebook contains the code for the Word Embedding Association Test[3] to measure bias.
