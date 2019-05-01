@@ -1,0 +1,42 @@
+Flowers: aster, clover, hyacinth, marigold, poppy, azalea, crocus, iris, orchid, rose, bluebell, daffodil, lilac, pansy, tulip, buttercup, daisy, lily, peony, violet, carnation, gladiola, magnolia, petunia, zinnia.
+Insects: ant, caterpillar, flea, locust, spider, bedbug, centipede, fly, maggot, tarantula, bee, cockroach, gnat, mosquito, termite, beetle, cricket, hornet, moth, wasp, blackfly, dragonfly, horsefly, roach, weevil.
+Pleasant: caress, freedom, health, love, peace, cheer, friend, heaven, loyal, pleasure, diamond, gentle, honest, lucky, rainbow, diploma, gift, honor, miracle, sunrise, family, happy, laughter, paradise, vacation.
+Unpleasant: abuse, crash, filth, murder, sickness, accident, death, grief, poison, stink, assault, disaster, hatred, pollute, tragedy, divorce, jail, poverty, ugly, cancer, kill, rotten, vomit, agony, prison.
+Instruments: bagpipe, cello, guitar, lute, trombone, banjo, clarinet, harmonica, mandolin, trumpet, bassoon, drum, harp, oboe, tuba, bell, fiddle, harpsichord, piano, viola, bongo, flute, horn, saxophone, violin.
+Weapons: arrow, club, gun, missile, spear, axe, dagger, harpoon, pistol, sword, blade, dynamite, hatchet, rifle, tank, bomb, firearm, knife, shotgun, teargas, cannon, grenade, mace, slingshot, whip.
+Pleasant: caress, freedom, health, love, peace, cheer, friend, heaven, loyal, pleasure, diamond, gentle, honest, lucky, rainbow, diploma, gift, honor, miracle, sunrise, family, happy, laughter, paradise, vacation.
+Unpleasant: abuse, crash, filth, murder, sickness, accident, death, grief, poison, stink, assault, disaster, hatred, pollute, tragedy, divorce, jail, poverty, ugly, cancer, kill, rotten, vomit, agony, prison.
+European_American_names: Adam, Chip, Harry, Josh, Roger, Alan, Frank, Ian, Justin, Ryan, Andrew, Fred, Jack, Matthew, Stephen, Brad, Greg, Jed, Paul, Todd, Brandon, Hank, Jonathan, Peter, Wilbur, Amanda, Courtney, Heather, Melanie, Sara, Amber, Crystal, Katie, Meredith, Shannon, Betsy, Donna, Kristin, Nancy, Stephanie, Bobbie-Sue, Ellen, Lauren, Peggy, Sue-Ellen, Colleen, Emily, Megan, Rachel, Wendy.
+African_American_names: Alonzo, Jamel, Lerone, Percell, Theo, Alphonse, Jerome, Leroy, Rasaan, Torrance, Darnell, Lamar, Lionel, Rashaun, Tyree, Deion, Lamont, Malik, Terrence, Tyrone, Everol, Lavon, Marcellus, Terryl, Wardell, Aiesha, Lashelle, Nichelle, Shereen, Temeka, Ebony, Latisha, Shaniqua, Tameisha, Teretha, Jasmine, Latonya, Shanise, Tanisha, Tia, Lakisha, Latoya, Sharise, Tashika, Yolanda, Lashandra, Malika, Shavonn, Tawanda, Yvette.
+Pleasant: caress, freedom, health, love, peace, cheer, friend, heaven, loyal, pleasure, diamond, gentle, honest, lucky, rainbow, diploma, gift, honor, miracle, sunrise, family, happy, laughter, paradise, vacation.
+Unpleasant: abuse, crash, filth, murder, sickness, accident, death, grief, poison, stink, assault, disaster, hatred, pollute, tragedy, bomb, divorce, jail, poverty, ugly, cancer, evil, kill, rotten, vomit.
+European_American_names: Brad, Brendan, Geoffrey, Greg, Brett, Jay, Matthew, Neil, Todd, Allison, Anne, Carrie, Emily, Jill, Laurie, Kristen, Meredith, Sarah.
+African_American_names: Darnell, Hakim, Jermaine, Kareem, Jamal, Leroy, Rasheed, Tremayne, Tyrone, Aisha, Ebony, Keisha, Kenya, Latonya, Lakisha, Latoya, Tamika, Tanisha.
+Pleasant: caress, freedom, health, love, peace, cheer, friend, heaven, loyal, pleasure, diamond, gentle, honest, lucky, rainbow, diploma, gift, honor, miracle, sunrise, family, happy, laughter, paradise, vacation.
+Unpleasant: abuse, crash, filth, murder, sickness, accident, death, grief, poison, stink, assault, disaster, hatred, pollute, tragedy, bomb, divorce, jail, poverty, ugly, cancer, evil, kill, rotten, vomit.
+European_American_names: Brad, Brendan, Geoffrey, Greg, Brett, Jay, Matthew, Neil, Todd, Allison, Anne, Carrie, Emily, Jill, Laurie, Kristen, Meredith, Sarah.
+African_American_names: Darnell, Hakim, Jermaine, Kareem, Jamal, Leroy, Rasheed, Tremayne, Tyrone, Aisha, Ebony, Keisha, Kenya, Latonya, Lakisha, Latoya, Tamika, Tanisha.
+Pleasant: joy, love, peace, wonderful, pleasure, friend, laughter, happy. 
+Unpleasant: agony, terrible, horrible, nasty, evil, war, awful, failure.
+Male_names: John, Paul, Mike, Kevin, Steve, Greg, Jeff, Bill.
+Female_names: Amy, Joan, Lisa, Sarah, Diana, Kate, Ann, Donna.
+Career: executive, management, professional, corporation, salary, office, business, career.
+Family: home, parents, children, family, cousins, marriage, wedding, relatives.
+Math: math, algebra, geometry, calculus, equations, computation, numbers, addition.
+Arts: poetry, art, dance, literature, novel, symphony, drama, sculpture.
+Male_terms: male, man, boy, brother, he, him, his, son.
+Female_terms: female, woman, girl, sister, she, her, hers, daughter.
+Science: science, technology, physics, chemistry, Einstein, NASA, experiment, astronomy.
+Arts: poetry, art, Shakespeare, dance, literature, novel, symphony, drama.
+Male_terms: brother, father, uncle, grandfather, son, he, his, him.
+Female_terms: sister, mother, aunt, grandmother, daughter, she, hers, her.
+Mental_disease: sad, hopeless, gloomy, tearful, miserable, depressed.
+Physical_disease: sick, illness, influenza, disease, virus, cancer.
+Temporary: impermanent, unstable, variable, fleeting, short-term, brief, occasional.
+Permanent: stable, always, constant, persistent, chronic, prolonged, forever.
+Young_people_names: Tiffany, Michelle, Cindy, Kristy, Brad, Eric, Joey, Billy.
+Old_people_names: Ethel, Bernice, Gertrude, Agnes, Cecil, Wilbert, Mortimer, Edgar.
+Pleasant: joy, love, peace, wonderful, pleasure, friend, laughter, happy.
+Unpleasant: agony, terrible, horrible, nasty, evil, war, awful, failure.
+
+
