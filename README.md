@@ -34,7 +34,7 @@ that popular songs have several distinguishing characteristics that can be expre
 human biases quite accurately. This work can be extended further by investigating music genre-specific style and biases.
 
 # References
-[1] MP Barman, A Awekar and S Kothari "Decoding the Style and Bias of Song Lyrics"- arXiv preprint arXiv:1901.05227, 2019.
+[1] MP Barman, A Awekar and S Kothari "Decoding the Style and Bias of Song Lyrics". In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'19).
 
 [2] T. Bertin-Mahieux, D. P. Ellis, B. Whitman, and P. Lamere. 2011. The million song Dataset. In Proceedings of the 12th International Conference on Music Information Retrieval (ISMIR 2011).
 
